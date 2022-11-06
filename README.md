@@ -1,4 +1,4 @@
-# easy_jobs
+# Easy_jobs
 
 A new Flutter project.
 
